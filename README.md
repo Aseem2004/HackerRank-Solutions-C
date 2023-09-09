@@ -9,4 +9,5 @@
 <li><a href="https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true">"Hello World!" in C</li>
 <li><a href="https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true">Playing with Characters</li>
 <li><a href="https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true">Sum and Difference of Two Numbers</li>
+<li><a href="https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true">Functions in C</li>
 </ul>
