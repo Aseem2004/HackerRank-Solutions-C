@@ -11,4 +11,5 @@
 <li><a href="https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true">Sum and Difference of Two Numbers</li>
 <li><a href="https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true">Functions in C</li>
 <li><a href="https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true">Pointers in C</li>
+<li><a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true">Conditional Statements in C</li>
 </ul>
