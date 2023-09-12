@@ -12,4 +12,5 @@
 <li><a href="https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true">Functions in C</li>
 <li><a href="https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true">Pointers in C</li>
 <li><a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true">Conditional Statements in C</li>
+<li><a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true">For Loop in C</li>
 </ul>
