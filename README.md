@@ -14,4 +14,5 @@
 <li><a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true">Conditional Statements in C</li>
 <li><a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true">For Loop in C</li>
 <li><a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true">Sum of Digits of a Five Digit Number</li>
+<li><a href="https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true">Bitwise Operators</li>
 </ul>
