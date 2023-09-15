@@ -16,3 +16,7 @@
 <li><a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true">Sum of Digits of a Five Digit Number</li>
 <li><a href="https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true">Bitwise Operators</li>
 </ul>
+<b>Medium:</b>
+<ul type="disc">
+<li><a href="https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true">Printing Pattern Using Loops</li>
+</ul>
