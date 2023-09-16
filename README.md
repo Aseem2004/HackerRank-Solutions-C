@@ -19,4 +19,5 @@
 <b>Medium:</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true">Printing Pattern Using Loops</li>
+<li><a href="https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true">1D Arrays in C</li>
 </ul>
