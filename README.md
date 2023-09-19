@@ -22,4 +22,5 @@
 <li><a href="https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true">1D Arrays in C</li>
 <li><a href="https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true">Array Reversal</li>
 <li><a href="https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true">Printing Tokens</li>
+<li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 </ul>
