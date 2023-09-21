@@ -24,4 +24,5 @@
 <li><a href="https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true">Printing Tokens</li>
 <li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 <li><a href="https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true">Dynamic Array in C</li>
+<li><a href="https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true">Calculate the Nth term</li>
 </ul>
