@@ -15,6 +15,8 @@
 <li><a href="https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true">For Loop in C</li>
 <li><a href="https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true">Sum of Digits of a Five Digit Number</li>
 <li><a href="https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true">Bitwise Operators</li>
+<li><a href="https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true">Calculate the Nth term</li>
+<li><a href="https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true">Students Marks Sum</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
@@ -24,5 +26,4 @@
 <li><a href="https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true">Printing Tokens</li>
 <li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 <li><a href="https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true">Dynamic Array in C</li>
-<li><a href="https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true">Calculate the Nth term</li>
 </ul>
