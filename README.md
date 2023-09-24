@@ -27,3 +27,7 @@
 <li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 <li><a href="https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true">Dynamic Array in C</li>
 </ul>
+<b>Hard</b>
+<ul type="disc">
+<li><a href="https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true">Sorting Array of Strings</li>
+</ul>
