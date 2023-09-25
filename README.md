@@ -26,6 +26,7 @@
 <li><a href="https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true">Printing Tokens</li>
 <li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 <li><a href="https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true">Dynamic Array in C</li>
+<li><a href="https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true">Permutations of Strings</li>
 </ul>
 <b>Hard</b>
 <ul type="disc">
