@@ -27,6 +27,7 @@
 <li><a href="https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true">Digit Frequency</li>
 <li><a href="https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true">Dynamic Array in C</li>
 <li><a href="https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true">Permutations of Strings</li>
+<li><a href="https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true">Variadic functions in C</li>
 </ul>
 <b>Hard</b>
 <ul type="disc">
