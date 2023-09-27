@@ -32,4 +32,5 @@
 <b>Hard</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true">Sorting Array of Strings</li>
+<li><a href="https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true">Querying the Document</li>
 </ul>
