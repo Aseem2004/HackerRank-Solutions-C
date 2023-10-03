@@ -3,7 +3,7 @@
 <h2><b>What is HackerRank?</b></h2>
 <p>HackerRank is a popular online platform that provides coding challenges and competitions for software developers, as well as technical skill assessments and interviews for hiring companies. It allows programmers to test their skills and showcase their abilities by solving various coding problems in different programming languages like C, Python, C++, Java etc.</p><br>
 <p>The varied answers that programmers provide to HackerRank's coding challenges are referred to as "HackerRank Solutions." Both the automated approach at HackerRank and other users' peer reviews are applied to these solutions. The website offers a learning environment where users may exercise their coding skills, advance their knowledge, and absorb other people's ideas. Programmers wishing to brush up on their coding skills or be ready for technical interviews can also benefit from HackerRank Solutions.</p>
-<p>I have provided my solutions to the difficulties I took on for HackerRank in this repository. Please feel free to provide feedback as I move forward.</p>
+<p>I have provided my solutions(for C) to the difficulties I took on for HackerRank in this repository. Please feel free to provide feedback as I move forward.</p>
 <b>Easy:</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true">"Hello World!" in C</li>
@@ -31,7 +31,7 @@
 <li><a href="https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true">Variadic functions in C</li>
 <li><a href="https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true">Small Triangles, Large Triangles</li>
 </ul>
-<b>Hard</b>
+<b>Hard:</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true">Sorting Array of Strings</li>
 <li><a href="https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true">Querying the Document</li>
