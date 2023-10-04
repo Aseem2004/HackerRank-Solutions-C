@@ -3,7 +3,8 @@
 <h2><b>What is HackerRank?</b></h2>
 <p>HackerRank is a popular online platform that provides coding challenges and competitions for software developers, as well as technical skill assessments and interviews for hiring companies. It allows programmers to test their skills and showcase their abilities by solving various coding problems in different programming languages like C, Python, C++, Java etc.</p><br>
 <p>The varied answers that programmers provide to HackerRank's coding challenges are referred to as "HackerRank Solutions." Both the automated approach at HackerRank and other users' peer reviews are applied to these solutions. The website offers a learning environment where users may exercise their coding skills, advance their knowledge, and absorb other people's ideas. Programmers wishing to brush up on their coding skills or be ready for technical interviews can also benefit from HackerRank Solutions.</p>
-<p>I have provided my solutions(for C) to the difficulties I took on for HackerRank in this repository. Please feel free to provide feedback as I move forward.</p>
+<p>I have provided my solutions(for C) to the difficulties I took on for HackerRank in this repository. Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.</p><br>
+<h2>Tabulation:</h2>
 <b>Easy:</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true">"Hello World!" in C</li>
