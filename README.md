@@ -54,7 +54,7 @@
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
         </td>  
         <td align="center" width="96">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4562913-Animated-C&psig=AOvVaw1EhplCfsx5LGb9VLy4N2Xy&ust=1696591198596000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDb5u_k3oEDFQAAAAAdAAAAABAE" alt="icon" width="65" height="65" />
+            <img src="https://cdn.dribbble.com/users/1413861/screenshots/4562913/animated-c.gif" alt="icon" width="65" height="65" />
         </td>
     </tr>
 </table>
